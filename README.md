@@ -1,10 +1,29 @@
--👋Hello, I'm UrbanMax,
-a Junior Cybersecurity Engineer deeply passionate about networking, systems, web technologies, 
-databases,and the intricacies of both defensive and offensive cybersecurity. 
-Thriving in environments where challenges are opportunities for growth, 
-I'm committed to pushing boundaries and staying ahead of the curve in the ever-evolving field of cybersecurity.
+-👋 Hello, I'm UrbanMax, 
+
+a Junior Cybersecurity Engineer deeply passionate about safeguarding digital infrastructures and combating cyber threats. With a diverse skill set spanning networking, systems administration, web technologies, and database management, I possess a comprehensive understanding of both defensive and offensive cybersecurity practices. From cloud security to incident response, I'm dedicated to ensuring the resilience and security of digital ecosystems.
+
+-Experience
+
+With hands-on experience in penetration testing, incident response, and secure network design, I've developed a strong foundation in identifying vulnerabilities, mitigating risks, and responding to cybersecurity incidents. My proficiency in tools such as Wireshark, Metasploit, and Burp Suite allows me to conduct thorough analyses and implement effective security measures.
+
+-GitHub Projects
+
+Explore my GitHub repositories to discover my latest projects, tools, and contributions to the cybersecurity community. From custom scripts for automating security tasks to detailed analyses of web vulnerabilities, there's always something new to explore and learn from.
+
+-Let's Connect!
+
+I'm eager to connect with fellow cybersecurity enthusiasts, industry professionals, and individuals passionate about securing digital environments. Whether it's discussing cybersecurity trends or collaborating on innovative projects, I'm always open to new opportunities. Connect with me on LinkedIn or send me a message here on GitHub.
+
+-🌱 Currently seeking an exciting new cybersecurity opportunity.
+
+-💞️ Interested in collaborating to develop new skills in the field.
+
+-Stay Secure, Stay Curious
+
+In the ever-evolving landscape of cybersecurity, curiosity and continuous learning are essential. Let's work together to enhance cybersecurity practices and build a safer digital future. Stay secure, stay curious!
 
 -Skills & Expertise
+
 Networking
 Systems Administration
 Web Technologies
@@ -14,36 +33,22 @@ Cloud Security
 Cryptography
 Threat Monitoring & Analysis
 Incident Response
-
--Earning Criteria Projects
-Network Security: Led a collaborative effort to build, secure, and protect a cloud application, demonstrating proficiency
-in cloud technologies, networking, cryptography, and web development.
-Defensive Security: Designed a custom monitoring environment utilizing Splunk to fortify a fictional organization against
-simulated attacks, showcasing robust defensive strategies.
-Offensive Security: Engaged in a Capture the Flag (CTF) competition, identifying and exploiting vulnerabilities
-in web applications and server systems.
-Certification Prep & Final Projects: Prepared rigorously for Security+ and CEH exams while spearheading a group research project,
-culminating in a professional presentation at bootCon, the cyber class conference.
-
--Achievements
-Recognized for consistently delivering high-quality project deliverables, characterized by attention to detail and innovative problem-solving.
-Developed strong communication and presentation skills, adept at conveying technical concepts to diverse audiences.
-Maintained an exemplary track record of assignment completion and exceeding expectations, underscoring dedication and commitment to excellence.
-GitHub Projects
-Explore my GitHub repositories to delve into my latest projects, experiments, and contributions to the cybersecurity community. 
-From open-source tools to insightful write-ups, there's always something new to discover!
-
--Let's Connect!
-I'm always enthusiastic about connecting with fellow cybersecurity enthusiasts, industry professionals, and eager learners.
-Whether it's for collaborations, discussions, or simply to say hello, feel free to reach out! Feel free to send me a message right here on GitHub to connect!
-
--🌱 Currently seeking an exciting new cybersecurity opportunity.
-
--💞️ Interested in collaborating to develop new skills in the field.
-
--Stay Secure, Stay Curious
-In the dynamic realm of cybersecurity, curiosity is paramount. Let's continue exploring, learning, 
-and innovating to foster a safer digital ecosystem together. Stay secure, stay curious!
+Packet Analysis
+Wireshark
+Windows and Linux Hardening
+Secure Network Design and Architecture
+Risk Management
+Vulnerability Assessment
+Identity and Access Management
+Ethical Hacking and Penetration Testing
+Kali Linux
+Metasploit
+Burp Suite
+Web Vulnerabilities and Security
+Digital Forensics Methods
+Penetration Testing
+Bash Scripting
+PowerShell Scripting
 
 
 <!---
