@@ -1,6 +1,6 @@
 -👋 Hello, I'm UrbanMax, 
 
-a Junior Cybersecurity Engineer deeply passionate about safeguarding digital infrastructures and combating cyber threats. With a diverse skill set spanning networking, systems administration, web technologies, and database management, I possess a comprehensive understanding of both defensive and offensive cybersecurity practices. From cloud security to incident response, I'm dedicated to ensuring the resilience and security of digital ecosystems.
+a Cybersecurity Specialist deeply passionate about safeguarding digital infrastructures and combating cyber threats. With a diverse skill set spanning networking, systems administration, web technologies, and database management, I possess a comprehensive understanding of both defensive and offensive cybersecurity practices. From cloud security to incident response, I'm dedicated to ensuring the resilience and security of digital ecosystems.
 
 -Experience
 
